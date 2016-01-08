@@ -1,0 +1,22 @@
+{
+    "name": "instantclick",
+    "filename": "instantclick.min.js",
+    "version": "3.1.0",
+    "description": "预加载页面，使用pjax，提升网站体验",
+    "homepage": "http://instantclick.io",
+    "keywords": [
+       "instantclick", "js"
+   ],
+   "maintainers": [
+       {
+           "name": "Alex Dieulot",
+           "mail": "adieulot@gmail.com" 
+       }
+   ],
+   "repositories": [
+        {   
+            "type": "git",
+            "url": "https://github.com/dieulot/instantclick.git"
+        }
+   ]
+}
